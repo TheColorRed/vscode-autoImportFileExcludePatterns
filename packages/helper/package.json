@@ -1,0 +1,8 @@
+{
+  "name": "@org/helper",
+  "version": "1.0.0",
+  "main": "src/index",
+  "dependencies": {
+    "@org/core": "1.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "./packages/*/src/index.ts"
+  ]
+}

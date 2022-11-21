@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "packages/core",
+    "packages/a"
+  ]
+}
